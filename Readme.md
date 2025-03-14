@@ -1,12 +1,23 @@
-Gemini AI Projects
+<div allign='center'>
 
+# Gemini AI Projects
 
+</div>
 
-🚀 Introduction
+<div allign='center'>
+
+![Gemini AI](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RjcWg2cXJjM3ZxenVqM2RoazZ5cDFvZDNsNzR6aWp3NmQycWZpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Imojkp6TR8TCLUtyif/giphy.gif)
+
+</div>
+
+---
+
+### 🚀 Introduction
 
 Welcome to the Gemini AI Projects repository! This collection showcases various implementations, experiments, and applications using Gemini AI, Google's advanced AI model designed for multimodal understanding, text generation, and more.
 
-📌 Features
+---
+### 📌 Features
 
 🤖 Text Generation – Generate human-like responses for various prompts.
 
@@ -18,7 +29,10 @@ Welcome to the Gemini AI Projects repository! This collection showcases various 
 
 🛠️ Custom AI Solutions – Build AI-driven applications tailored to specific needs.
 
-📂 Project Structure
+
+---
+
+### 📂 Project Structure
 
 📁 Gemini_AI_Projects
 │── 📜 README.md          # Project documentation
@@ -32,39 +46,22 @@ Welcome to the Gemini AI Projects repository! This collection showcases various 
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Gemini_AI_Projects.git
-cd Gemini_AI_Projects
+git clone https://github.com/AmartyaGhoshyoo/LLM-Applications.git
+cd LLM-Applications
 
-2️⃣ Install Dependencies
+---
 
-pip install -r requirements.txt
+### 2️⃣ Install Dependencies
 
-3️⃣ Run an Example
+```pip install -r requirements.txt```
 
-python src/generate_text.py --prompt "Hello, AI!"
+---
 
-🛠️ Technologies Used
+### 🎯 Contributing
 
-Python 🐍
 
-Google Gemini AI 🤖
+I welcome contributions! Feel free to fork the repo, submit pull requests, or open issues for discussion.
 
-TensorFlow / PyTorch 🔥
-
-Hugging Face Transformers 🤗
-
-OpenAI API (for benchmarking) 🧠
-
-🎯 Contributing
-
-We welcome contributions! Feel free to fork the repo, submit pull requests, or open issues for discussion.
-
-📜 License
-
-This project is licensed under the MIT License – feel free to use and modify as needed.
-
-📢 Connect with Us
-
-🌐 Website📧 Email🐦 Twitter
 
 Happy coding! 🚀
+
