@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
+  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMxeTZnZDd0cDVtdXgxanRwdDA3azMxaW51cnR6MjhoamdkaXllbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/urRtCdQOmTmcQMi2Ew/giphy.gif" alt="AI/ML Engineer" />
+  
 </div>
 
 ---
