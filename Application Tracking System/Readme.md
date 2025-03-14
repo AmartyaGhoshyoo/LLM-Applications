@@ -1,6 +1,6 @@
 <div align="center">
 
-# Application Tracking System
+# Application Tracking System 👨🏼‍💻
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ---
 
-## Description:
+## ❗️Description:
 
 This application helps users to match their resume with Job Description and also tells about the missing keywords.
 
-## How to Run:
+## 🔴How to Run:
 
 <b>```streamlit run ModifiedATS.py```</b>
 
