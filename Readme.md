@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-  
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMxeTZnZDd0cDVtdXgxanRwdDA3azMxaW51cnR6MjhoamdkaXllbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/urRtCdQOmTmcQMi2Ew/giphy.gif" alt="AI/ML Engineer" />
-  
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV0MnVwYmF2d3cxOWc0dW42dm94NGpnZ2JhdjExdGpkYXFmaWlxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8hYQgBIIHkCPjRTmai/giphy.gif" alt="AI/ML Engineer" />  
 </div>
 
 ---
