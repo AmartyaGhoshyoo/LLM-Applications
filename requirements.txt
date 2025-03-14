@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+huggingface-hub
+faiss-cpu
+unstructured
+langchain-google-genai
+sentence-transformers
+python-dotenv
+Pillow
