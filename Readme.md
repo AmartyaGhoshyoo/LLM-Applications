@@ -6,7 +6,7 @@
 
 <div align='center'>
 
-![Gemini AI](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RjcWg2cXJjM3ZxenVqM2RoazZ5cDFvZDNsNzR6aWp3NmQycWZpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Imojkp6TR8TCLUtyif/giphy.gif)
+  ![Gemini AI](https://media2.giphy.com/media/Imojkp6TR8TCLUtyif/giphy.gif)
 
 </div>
 
