@@ -1,13 +1,11 @@
-<div align='center'>
+<div align="center">
   
 # Gemini AI Projects
 
 </div>
 
-<div align='center'>
-
-  ![Gemini AI](https://media2.giphy.com/media/Imojkp6TR8TCLUtyif/giphy.gif)
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RjcWg2cXJjM3ZxenVqM2RoazZ5cDFvZDNsNzR6aWp3NmQycWZpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Imojkp6TR8TCLUtyif/giphy.gif" alt="AI/ML Engineer" />
 </div>
 
 ---
@@ -44,9 +42,10 @@ Welcome to the Gemini AI Projects repository! This collection showcases various 
 
 ⚡ Getting Started
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
 git clone https://github.com/AmartyaGhoshyoo/LLM-Applications.git
+
 cd LLM-Applications
 
 ---
