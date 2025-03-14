@@ -1,6 +1,6 @@
 <div align="center">
   
-# Gemini AI Projects
+# End To End LLM Applications
 
 </div>
 
