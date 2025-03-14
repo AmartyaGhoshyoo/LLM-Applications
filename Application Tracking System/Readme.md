@@ -15,5 +15,5 @@ This application helps users to match their resume with Job Description and also
 
 ### How to Run:
 
-```streamlit run ATS.py```
+```streamlit run ModifiedATS.py```
 
