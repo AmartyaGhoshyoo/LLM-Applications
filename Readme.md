@@ -33,11 +33,17 @@ Welcome to the Gemini AI Projects repository! This collection showcases various 
 ### 📂 Project Structure
 
 📁 Gemini_AI_Projects
+
 │── 📜 README.md          # Project documentation
+
 │── 📂 models             # Pretrained and fine-tuned models
+
 │── 📂 datasets           # Data used for training and testing
+
 │── 📂 notebooks          # Jupyter/Colab notebooks for experiments
+
 │── 📂 src                # Source code for AI models and applications
+
 │── 📂 demos              # Interactive demo applications
 
 ⚡ Getting Started
