@@ -4,9 +4,11 @@
 
 </div>
 
+<div align="center">
+  
+![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl6ZzFncW1wNjV3YnQxZGNiOWoxMDBzYW1hMmtrcjNwOTl5NWw5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tEGtwTQLfUsf7bsS0K/giphy.gif)
 
-![Image](https://orgzit.com/blog/wp-content/uploads/2020/04/applicant-tracking-system-blog.jpg)
-
+</div>
 ---
 
 ### Description:
