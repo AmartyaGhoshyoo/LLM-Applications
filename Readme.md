@@ -1,6 +1,6 @@
 <div align="center">
   
-# End To End LLM Applications
+# End To End LLM Applications 🦾
 
 </div>
 
