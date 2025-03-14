@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 Introduction
+## 🚀 Introduction
 
-Welcome to the Gemini AI Projects repository! This collection showcases various implementations, experiments, and applications using Gemini AI, Google's advanced AI model designed for multimodal understanding, text generation, and more.
+Welcome to the LLM Applications repository! This collection showcases various implementations, experiments, and applications using Gemini AI, Google's advanced AI model designed for multimodal understanding, text generation, and more.
 
 ---
-### 📌 Features
+## 📌 Features
 
 🤖 Text Generation – Generate human-like responses for various prompts.
 
@@ -30,7 +30,7 @@ Welcome to the Gemini AI Projects repository! This collection showcases various 
 
 ---
 
-### 📂 Project Structure
+## 📂 Project Structure
 
 📁 Gemini_AI_Projects
 
@@ -48,9 +48,9 @@ Welcome to the Gemini AI Projects repository! This collection showcases various 
 
 ⚡ Getting Started
 
-### 1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
 
-git clone https://github.com/AmartyaGhoshyoo/LLM-Applications.git
+```git clone https://github.com/AmartyaGhoshyoo/LLM-Applications.git```
 
 cd LLM-Applications
 
