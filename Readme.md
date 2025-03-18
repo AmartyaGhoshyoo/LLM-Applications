@@ -61,6 +61,7 @@ cd LLM-Applications
 ```pip install -r requirements.txt```
 
 Also have your Google gemini api key from this link ```https://aistudio.google.com/apikey```  and paste that key in the ```.env``` file 
+
 ---
 
 ### 🎯 Contributing
