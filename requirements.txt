@@ -6,4 +6,5 @@ unstructured
 langchain-google-genai
 sentence-transformers
 python-dotenv
+pypdf2
 Pillow
